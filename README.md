@@ -16,9 +16,9 @@ As long as you have app updates enabled and have recently connected to WiFi, you
 
 This write-up is specifically about the Android mobile application - the desktop application does not have this vulnerability.
 
-![Video Demo (click lower-right to expand)](poc.mp4)
+![Click here to download Video Demo](https://bit.ly/309ssF2)
 
-![Alternate demo (thank to @LukasStefanko)](poc2.mp4)
+![Click here for Alternate Video Demo Link (If the above link doesn't work)](https://bit.ly/3bUYGJL)
 
 ## Technical Details
 
