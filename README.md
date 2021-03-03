@@ -16,9 +16,8 @@ As long as you have app updates enabled and have recently connected to WiFi, you
 
 This write-up is specifically about the Android mobile application - the desktop application does not have this vulnerability.
 
-![Click here to download Video Demo](https://raw.githubusercontent.com/utsanjan/FFSSDP-MITM/main/poc.mp4)
-
-![Click here for Alternate Video Demo Link (If the above link doesn't work)](https://raw.githubusercontent.com/utsanjan/FFSSDP-MITM/main/poc2.mp4)
+🔗 [Click here to download the Video Demo of this Script](https://raw.githubusercontent.com/utsanjan/FFSSDP-MITM/main/poc.mp4)
+<br>🔗 [Click here for Alternate Video Demo Link (If the above link doesn't work)](https://raw.githubusercontent.com/utsanjan/FFSSDP-MITM/main/poc2.mp4)
 
 ## Technical Details
 
@@ -59,7 +58,7 @@ If you'd like to play around with the bug yourself, you can grab an older versio
 
 I've spent a bit of time developing attack POCs for SSDP vulnerabilities in other applications, using a tool I wrote called [evil-ssdp](https://github.com/initstring/evil-ssdp). I created a modified version of that tool specifically to demonstrate this Firefox vulnerability. It's attached to this repository as [ffssdp.py](ffssdp.py).
 
-We'll start with forcing all phones on the LAN to pop up a web browser to http://example.com.
+We'll start with forcing all phones on the LAN to pop up a web browser to https://evil.com/.
 
 First, just open Firefox on your Android device and let it sit there.
 
