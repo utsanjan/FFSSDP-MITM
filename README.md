@@ -1,8 +1,9 @@
 # Firefox for Android LAN-Based Intent Triggering
 
 *Exploit research and development by Chris Moberly (Twitter: [@init_string](https://twitter.com/init_string))*
+<br>*Recreated by Utsanjan Maity - DopeSatan (Instagram: [@utsanjan](https://www.instagram.com/utsanjan))*
 
-## Overview
+## 👁️‍🗨️ Overview
 
 The SSDP engine in Firefox for Android (68.11.0 and below) can be tricked into triggering Android intent URIs with zero user interaction.  This attack can be leveraged by attackers on the same WiFi network and manifests as applications on the target device suddenly launching, without the users' permission, and conducting activities allowed by the intent.
 
@@ -19,7 +20,7 @@ This write-up is specifically about the Android mobile application - the desktop
 🔗 [Click here to download the Video Demo of this Script](https://raw.githubusercontent.com/utsanjan/FFSSDP-MITM/main/poc.mp4)
 <br>🔗 [Click here for Alternate Video Demo Link (If the above link doesn't work)](https://raw.githubusercontent.com/utsanjan/FFSSDP-MITM/main/poc2.mp4)
 
-## Technical Details
+## ⚙ Technical Details
 
 The vulnerable Firefox version periodically sends out SSDP discovery messages, looking for second-screen devices to cast to (such as the Roku). These messages are sent via UDP multicast to 239.255.255.250, meaning any device on the same network can see them. If you run Wireshark on your LAN, you will probably see something on your network doing the same. A discovery message from Firefox looks like this:
 
@@ -52,7 +53,7 @@ BOOTID.UPNP.ORG: 0
 CONFIGID.UPNP.ORG: 1
 ```
 
-## Proof of Concept
+## 📝 Proof of Concept
 
 If you'd like to play around with the bug yourself, you can grab an older version of Firefox for Android [here](https://archive.mozilla.org/pub/mobile/releases/68.11.0/).
 
@@ -85,7 +86,7 @@ And one more, just for testing purposes. This will just pop the dialer:
 python3 ./ffssdp.py wlan0 -t "tel://1337h825012"
 ```
 
-## Impact
+## 💀 Impact
 
 This is not some super fancy memory-corruption bug that can be invoked from across the planet. It's a pretty straight-forward logic bug that basically allows you to magically click links on other peoples' phones who are in the same building as you.
 
@@ -99,4 +100,4 @@ With mobile apps, it is possible that many people remain on outdated versions fo
 
 As a final thought, this most definitely could have been an epic rick roll, where everyone in the room running Firefox tried to figure out what the heck was going on.
 
-Thanks for reading!
+𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴...
