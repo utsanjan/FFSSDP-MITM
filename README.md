@@ -98,6 +98,10 @@ The POC code is persistent, in that it will trigger the intent over and over unt
 
 With mobile apps, it is possible that many people remain on outdated versions for an extended period of time. This is due to the default setting of applications updating only when connected to WiFi, and the fact that some may only rarely (or never) connect to a WiFi network. Fortunately, this bug is exploitable only over WiFi, so those that cannot connect to update can also not be targeted. There is also a workaround for those who cannot update whatever reason, and that is to set `browser.casting.enabled` to `false` in `about:config`.
 
-As a final thought, this most definitely could have been an epic rick roll, where everyone in the room running Firefox tried to figure out what the heck was going on.
+As a final thought, this most definitely could have been an epic rick roll,
+<br>where everyone in the room running Firefox tried to figure out what the heck was going on.
 
-✨ 𝗧𝗵𝗮𝗻𝗸𝘀 𝗳𝗼𝗿 𝗿𝗲𝗮𝗱𝗶𝗻𝗴...
+## 🌎 Contact me  
+
+For Queries: [My Instagram Profile](https://www.instagram.com/utsanjan/)  
+[Check Out My YouTube Channel](https://www.youtube.com/DopeSatan)
