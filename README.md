@@ -1,5 +1,5 @@
 # Firefox for Android LAN-Based Intent Triggering
-
+ 
 *Exploit research and development by Chris Moberly (Twitter: [@init_string](https://twitter.com/init_string))*
 <br>*Recreated by Utsanjan Maity - aka DopeSatan (Instagram: [@utsanjan](https://www.instagram.com/utsanjan))*
 
