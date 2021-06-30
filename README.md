@@ -5,7 +5,7 @@
 *Exploit research and development by Chris Moberly (Twitter: [@init_string](https://twitter.com/init_string))*
 <br>*Recreated by Utsanjan Maity - aka DopeSatan (Twitter: [@utsanjan](https://twitter.com/utsanjan))*
 
-## 👁️‍🗨️ Overview 
+## 👁️‍🗨️ Overview
 
 The SSDP engine in Firefox for Android (68.11.0 and below) can be tricked into triggering Android intent URIs with zero user interaction.  This attack can be leveraged by attackers on the same WiFi network and manifests as applications on the target device suddenly launching, without the users' permission, and conducting activities allowed by the intent.
 
