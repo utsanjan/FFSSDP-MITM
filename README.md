@@ -1,9 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://1.bp.blogspot.com/-OxJ4nwc3VXY/YNQu5xrXP0I/AAAAAAAAiiU/CXldekgi7kA91q8HmQBxyX0PXf5fytSiACLcBGAsYHQ/s16000/download.png" height="175px"/></a>
+<a href="https://github.com/utsanjan/FFSSDP-MITM"><img width="100%" height="auto" src="https://bit.ly/3xuRGQ3" height="175px"/></a>
 
-# Firefox for Android LAN-Based Intent Triggering
- 
-*Exploit research and development by Chris Moberly (Twitter: [@init_string](https://twitter.com/init_string))*
-<br>*Recreated by Utsanjan Maity - aka DopeSatan (Twitter: [@utsanjan](https://twitter.com/utsanjan))*
+## Firefox for Android LAN-Based Intent Triggering
+[![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
+[![](https://img.shields.io/github/license/utsanjan/GreenHouse?logoColor=red&style=plastic)](https://github.com/utsanjan/GreenHouse/blob/main/LICENSE)‎ ‎
+[![](https://img.shields.io/github/languages/count/utsanjan/GreenHouse?style=plastic)](https://github.com/utsanjan/GreenHouse/search?l=shell)‎ ‎
+[![](https://img.shields.io/github/languages/top/utsanjan/GreenHouse?color=light%20green&style=plastic)](https://github.com/utsanjan/GreenHouse)‎ ‎ <br>
+*Recreated by Utsanjan Maity - aka DopeSatan (Twitter: [@utsanjan](https://twitter.com/utsanjan))*
+<br>*Exploit research and development by Chris Moberly (Twitter: [@init_string](https://twitter.com/init_string))*
 
 ## 👁️‍🗨️ Overview
 
