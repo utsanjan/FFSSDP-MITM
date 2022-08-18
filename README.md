@@ -1,4 +1,4 @@
-<a href="https://github.com/utsanjan/FFSSDP-MITM"><img width="100%" height="auto" src="https://bit.ly/3xuRGQ3" height="175px"/></a>
+<a href="https://github.com/utsanjan/FFSSDP-MITM"><img width="100%" height="auto" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFvmFXnqg76vWywyTXCRX1hgAySZoQes7IlQW9xCUvW8WZ_Dx7omfhEhb_O8Mj6DgdWJlyKLtClij1fi2NW8eMA1q4k8JeVsH29I1z4GNiWPMPXwenTOMEYcp0h3gE7iO95iZ1Xj_BZBCEXrfTjatc2MYVRvudQ9YX7Tycf9AGVV71cAwttGTTwm_X/s1600/FFSSDP-modified.png" height="175px"/></a>
 
 ## Firefox for Android LAN-Based Intent Triggering
 [![Buy Me A Coffee](https://img.shields.io/open-vsx/stars/redhat/java?color=D8B024&label=buy%20me%20a%20coffee&style=plastic)](https://www.buymeacoffee.com/utsanjan)‎ ‎
